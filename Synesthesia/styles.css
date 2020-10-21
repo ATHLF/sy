@@ -1,0 +1,154 @@
+
+.char-a {
+  color: red;
+  text-shadow: 0.5px 0.5px 1.5px red;
+}
+.char-b {
+  color: hotpink;
+  text-shadow: 0.5px 0.5px 2px hotpink;
+}
+.char-c {
+  color: yellow;
+  text-shadow: 0.5px 0.5px 0.5px #cc9900;
+}
+.char-d {
+  color: #999966;
+  text-shadow: 0.2px 0.2px 1px #222;
+}
+.char-e {
+  color: blue;
+  text-shadow: 0.5px 0.5px 2px blue;
+}
+.char-f {
+  color: DeepPink;
+    text-shadow: 0.5px 0.5px 2px DeepPink;
+}
+.char-g {
+  color: forestgreen;
+    text-shadow: 0.5px 0.5px 2px forestgreen;
+}
+.char-h {
+  color: Olive;
+    text-shadow: 0.5px 0.5px 2px Olive;
+}
+.char-i {
+  color: #394149;
+    text-shadow: 0.2px 0.2px 3px #394149;
+}
+.char-j {
+  color: brown;
+    text-shadow: 0.5px 0.5px 2px brown;
+}
+.char-k {
+  color: Aquamarine;
+    text-shadow: 0.1px 0.1px 0.2px #0033cc;
+}
+.char-l {
+  color: DodgerBlue;
+    text-shadow: 0.5px 0.5px 2px DodgerBlue;
+}
+.char-m {
+  color: black;
+    text-shadow: 0.5px 0.5px 2px black;
+}
+.char-n {
+  color: Navy;
+    text-shadow: 0.5px 0.5px 2px Navy;
+}
+.char-o {
+  color: orangered;
+    text-shadow: 0.5px 0.5px 2px orangered;
+}
+.char-p {
+  color: #660066;
+    text-shadow: 0.5px 0.5px 2px #660066;
+}
+.char-q {
+  color: DarkTurquoise;
+    text-shadow: 0.1px 0.1px 1px #0099ff;
+}
+.char-r {
+  color: #cc0000;
+    text-shadow: 0.5px 0.5px 2px #cc0000;
+}
+.char-s {
+  color: gold;
+  text-shadow: 0.5px 0.5px 0.5px #cc9900;
+}
+.char-t {
+  color: #804000;
+    text-shadow: 0.5px 0.5px 2px #804000;
+}
+.char-u {
+  color: SlateBlue;
+    text-shadow: 0.5px 0.5px 2px SlateBlue;
+}
+.char-v {
+  color: darkviolet;
+    text-shadow: 0.5px 0.5px 2px darkviolet;
+}
+.char-w {
+  color: LawnGreen;
+    text-shadow: 0.2px 0.2px 2px #006600;
+}
+.char-x {
+  color: darkgrey;
+text-shadow: 0px 0px 0.5px black;;
+}
+.char-y {
+  color: #ffff99;
+    text-shadow: 0.1px 0.1px 2px black;
+}
+.char-z {
+  color: GhostWhite;
+    text-shadow: 0.1px 0.1px 3px black;
+}
+body {
+  font-family: sans-serif;
+  color: #222;
+}
+
+p {
+  margin: 0 0 1.15em;
+}
+body{
+  background-color: #fff;
+}
+#phrase {
+    font-size: 18px;
+      letter-spacing: 2px;
+}
+
+h1 {
+  padding-bottom: 1em;
+  padding-top: 0em;
+  text-align: center;
+  font-size: 35px;
+}
+
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p+h2 {
+  margin-top: 1.5em;
+}
+
+header, main, footer {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* header, main, footer { */
+.container {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 24px;
+}
